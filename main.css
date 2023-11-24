@@ -21,10 +21,14 @@ a {
 
 }
 
+a:hover {
+    color: dodgerblue;
+}
+
 .container {
     max-width: 1600px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 5px;
 }
 
 .hero {
@@ -163,6 +167,7 @@ a {
 
 .savdo li {
     border: wheat solid 1px;
+
 }
 
 .savdo h6 {
